@@ -1,5 +1,16 @@
 {
   "rewrites": [
-    { "source": "/infinity", "destination": "/infinity.html" }
+    {
+      "source": "/saf",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/infinity",
+      "destination": "/infinity.html"
+    },
+    {
+      "source": "/som",
+      "destination": "/som.html"
+    }
   ]
 }
