@@ -3,6 +3,7 @@
     { "source": "/saf", "destination": "/index.html" },
     { "source": "/som", "destination": "/som.html" },
     { "source": "/infinity", "destination": "/infinity.html" },
-    { "source": "/dior", "destination": "/dior.html" }
+    { "source": "/dior", "destination": "/dior.html" },
+    { "source": "/apparel", "destination": "/apparel.html" }
   ]
 }
